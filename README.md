@@ -4,12 +4,6 @@ This website was developed to facilitate food donations between people in order 
 
 When considering the use of information technology for solidarity, observing the high rate of food insecurity in Brazil and in the world, and understanding the importance of food donations to reduce hunger, it was proposed a web application that facilitates the connection between food donor and a organization, individual or legal entity that needs these donations. The user will have the freedom to request the donation of food, as well as to make donations.
 
-Portuguese:
-
-Este site foi desenvolvido para facilitar a doação de alimentos entre as pessoas, a fim de minimizar os efeitos da fome global.
-
-Ao considerar o uso da tecnologia da informação para o benefício da ética e solidariedade, observar o alto índice de insegurança alimentar no Brasil e no mundo, e entender a importância das doações de alimentos para a redução da fome, foi proposto o desenvolvimento de um sistema web que possibilita a conexão entre o doador de alimentos e a organização, pessoa física ou jurídica que necessita dessas doações. O usuário terá a liberdade, com o uso da aplicação, de requisitar a doação de alimentos, bem como efetuar doações, caso possam colaborar. À vista disso, será possível promover a prática da solidariedade mútua e, consequentemente, assegurar que as pessoas tenham o direito à alimentação e, portanto, garantia da dignidade humana.
-
 # System Development 
 
 The application was developed using PHP, JavaScript, HTML, CSS, Bootstrap, jQuery, AJAX and MySQL database.
