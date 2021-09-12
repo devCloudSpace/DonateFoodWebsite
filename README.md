@@ -8,6 +8,8 @@ When considering the use of information technology for solidarity, observing the
 
 The application was developed using PHP, JavaScript, HTML, CSS, Bootstrap, jQuery, AJAX and MySQL database.
 
+Further improvements will still be done on the project, such as: the architecture style that fits the system, improvement of the code, usage of design patterns, database improvements and so on. The software is in its initial stage.
+
 # Icons
 
 <div> ALL icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
