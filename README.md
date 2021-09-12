@@ -18,32 +18,32 @@ Further improvements will still be done on the project, such as: the architectur
 
 <h2 align="center">Login</h2>
 <p align="center">
-  <img src="_imagens/A1.png" width="75%"></img>
+  <img src="_imagens/A1.png" width="65%"></img>
 </p>
 
 <h2 align="center">Sign Up</h2>
 <p align="center">
-  <img src="_imagens/A2.png" width="75%"></img>
+  <img src="_imagens/A2.png" width="65%"></img>
 </p>
 
 <h2 align="center">Home</h2>
 <p align="center">
-  <img src="_imagens/A3.png" width="75%"></img>
+  <img src="_imagens/A3.png" width="65%"></img>
 </p>
 
 <h2 align="center">User's Settings</h2>
 <p align="center">
-  <img src="_imagens/A4.png" width="75%"></img>
+  <img src="_imagens/A4.png" width="65%"></img>
 </p>
 
 <h2 align="center">Some Alerts</h2>
 <p align="center">
-  <img src="_imagens/A5.png" width="75%"></img>
+  <img src="_imagens/A5.png" width="65%"></img>
 </p>
 
 <h2 align="center">Request Donation</h2>
 <p align="center">
-  <img src="_imagens/A6.png" width="75%"></img>
+  <img src="_imagens/A6.png" width="65%"></img>
 </p>
 
 <h2 align="center"> Developed by Anne Livia
