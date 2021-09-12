@@ -15,7 +15,7 @@ The application was developed using PHP, JavaScript, HTML, CSS, Bootstrap, jQuer
 
 <div> ALL icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
-# Interface
+# Interface (just some images)
 
 <h2 align="center">Login</h2>
 <p align="center">
