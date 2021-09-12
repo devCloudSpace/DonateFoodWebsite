@@ -11,4 +11,38 @@ as well as to make donations.
 
 The application was developed using PHP, JavaScript, HTML, CSS, Bootstrap, jQuery, AJAX and MySQL database.
 
-# Images of the application
+# Icons
+
+<div> ALL icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+# Interface
+
+<h2 align="center">Login</h2>
+<p align="center">
+  <img src="_imagens/A1.png" width="75%"></img>
+</p>
+
+<h2 align="center">Sign Up</h2>
+<p align="center">
+  <img src="_imagens/A2.png" width="75%"></img>
+</p>
+
+<h2 align="center">Home</h2>
+<p align="center">
+  <img src="_imagens/A3.png" width="75%"></img>
+</p>
+
+<h2 align="center">User's Settings</h2>
+<p align="center">
+  <img src="_imagens/A4.png" width="75%"></img>
+</p>
+
+<h2 align="center">Some Alerts</h2>
+<p align="center">
+  <img src="_imagens/A5.png" width="75%"></img>
+</p>
+
+<h2 align="center">Resquest Donation</h2>
+<p align="center">
+  <img src="_imagens/A6.png" width="75%"></img>
+</p>
