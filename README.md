@@ -47,4 +47,4 @@ Further improvements will still be done on the project, such as: the architectur
 </p>
 
 <h2 align="center"> Developed by Anne Livia
-<br/>© All Rights Reserved. 2021</h2>
+<br/>© All Rights Reserved. 2021<br/><br/></h2>
